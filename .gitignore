@@ -1,0 +1,5 @@
+# Visual studio cache
+.vs/
+
+# Generated files
+bin/
