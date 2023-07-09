@@ -1,5 +1,9 @@
 # Visual studio cache
 .vs/
 
-# Generated files
+# VS Code stuff
+.vscode/
+
+# Generated & temporary files
 bin/
+tmp/
